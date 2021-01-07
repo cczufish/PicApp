@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.2)
+  - HandyJSON (5.0.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - YHDragCard.swift (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - HandyJSON (= 5.0.0)
+  - Kingfisher
+  - SnapKit (= 4.2.0)
+  - SwiftyJSON (= 5.0.0)
+  - YHDragCard.swift
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+    - YHDragCard.swift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YHDragCard.swift: 7de40065357257f006fb7ddba124d123626f6c65
+
+PODFILE CHECKSUM: 0ff6e822642b286c26353b431c398f33363d6a6c
+
+COCOAPODS: 1.10.0.rc.1
